@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-in-shadow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Slow Dance In Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-shadow/) |
+| **Get License** | [License this song: Slow Dance In Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-shadow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat of your skin in the dark
+> A quiet fire burning right from the start
+> Pulling you close where the moonlight fades
+> We are a secret the midnight made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
